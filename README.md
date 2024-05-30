@@ -1,70 +1,233 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10958
-Fork on GitHub
-2757
+<div align="center">
 
-back to edit
 
-copy-markdown
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
-download markdown
+<details>
+<summary>Open profile</summary>
 
-download backup
+[comment]: <> (View Counter)
+<br>
+<div>
+  <div align=center>
+      <img height="450" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(8).png" alt="Avatar photo of Anant Bavsiakr">
+  </div>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Dipak Badgujar;aka+INFINITY;Welcome+to+my+profile!;Description+of+myself%3A;Inquisitive+by+nature;AI+enthusiast;Chess+lover;ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
+  </div>
+</div>
 
-preview
-<h1 align="center">Hi 👋, I'm gfhg</h1>
-<h3 align="center">A passionate frontend developer fgyitdrea4axzbgxtrsrom India</h3>
+<details>
+<summary>About me</summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakbadgujar01&label=Profile%20views&color=0e75b6&style=flat" alt="dipakbadgujar01" /> </p>
+[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipakbadgujar01" alt="dipakbadgujar01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align=center>
+      <img height="320" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(5).png">
+  </div>
+<div align="left">
 
-- 🔭 I’m currently working on **juhyhu**
+<!-- <div align="center"> -->
+  
+  
 
-- 🌱 I’m currently learning **gffhgf**
+# ***<div align="center">💻   I'm Anant Baviskar, 💻📝  Data Science Enthusiastic 👨‍💻 working for my self remotely since 2002 🚀🖥️🎼</div>***  
+  
 
-- 👯 I’m looking to collaborate on **hgyg**
+- **🔭 I’m currently working on [CMS Web App](https://github.com/Infinity0077/webpage)**  
+  
 
-- 🤝 I’m looking for help with **bvh**
+- **🌱 I’m currently learning Docker and Flask**  
+  
 
-- 💬 Ask me about **hfhf**
+- **❓ Ask me about anything related to Python Programming and related technologies**  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br/>  
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakbadgujar01&show_icons=true&locale=en&layout=compact" alt="dipakbadgujar01" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakbadgujar01&" alt="dipakbadgujar01" /></p>
+<details>
+<summary>Tools</summary>
+<div align=center>
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(9).png">
+  </div>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Back-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Data Science & AI</kbd>
+      <br>
+      <br>
+      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>System, Networking & Deployment</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  </kbd>
+     <kbd>
+      <kbd>Game Development</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    </kbd>
+  </p>
+</div>
+</details>
+
+<details>
+  <summary>Quote</summary>
+  <div align=center>
+      <img height="260" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(6).png">
+  </div>
+  <h2>One of my favourite quotes</h2>
+  <br>
+  
+  
+  <blockquote>
+    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
+    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
+  </blockquote>
+</details>
+
+<details>
+  <summary>Free DOSE hit</summary>
+  <div align=center>
+      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(10).png">
+  </div>
+  <br>
+  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
+  <br>
+  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
+</details>
+
+<details>
+<summary>What can I do for you?</summary>
+<div align=center>
+      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(11).png">
+  </div>
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+
+## Let's Work on Your Project Together!
+
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:baviskaranant7@gmail.com">contact me by email</a>, I won't bite, I promise.
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+
+<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+<br><strong>– Elon Musk</strong></blockquote>
+
+  </td>
+  </tr>
+</table>
+</details>
+<details>
+<summary>Stats</summary>
+<div align=center>
+      <img height="420" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(9).png">
+  </div>
+<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&hide_border=true&layout=compact" align="" />  
+
+<br/>
+</details>
+</details>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
+
+# Connect with me  
+<div align=center>
+      <img width="950" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/Untitled%20design%20(1).png" alt="Avatar photo of Anant Bavsiakr">
+  </div>
+<div align="center">
+<a href="https://github.com/Infinity0077" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/arbaviskar02" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/anant-baviskar-b07b25236/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/_anant_baviskar_02_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+-----
+Credits: [INFINITY](https://github.com/Infinity0077)
+Last Edited on: 27/03/2023
