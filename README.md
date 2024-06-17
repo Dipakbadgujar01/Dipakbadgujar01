@@ -25,3 +25,8 @@ I am a full-stack Developer.<br>I enjoy using my obsessive attention to detail, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipakBadgujar&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DipakBadgujar&theme=prussian&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakBadgujar&theme=prussian&hide_border=false&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BhupaliShinde&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhupaliShinde&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhupaliShinde&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
